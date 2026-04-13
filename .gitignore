@@ -1,0 +1,9 @@
+# data
+data/*
+
+# jupyter
+*.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
